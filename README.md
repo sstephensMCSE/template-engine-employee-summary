@@ -12,6 +12,7 @@ install node.js, run npm init, run npm i.
 
 I copied the project from the homework template folder. There is a package.json included so I use npm install to install the dependencies.
 
+<img src="https://github.com/sstephensMCSE/template-engine-employee-summary/blob/main/pics/npm-install.jpg" width="500" title="NPM-Install">
 
 ## Project Overview
    Use node.js to build a software engineering team generator command line application. The app will need to have conditional checks to gather the appropriate information for each employee. 

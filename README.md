@@ -55,4 +55,4 @@ jest
 
 <img src="https://github.com/sstephensMCSE/template-engine-employee-summary/blob/main/pics/team-app.jpg" width="500" title="team-app">
 
-<img src="https://github.com/sstephensMCSE/template-engine-employee-summary/blob/main/pics/output.jpg" width="500" title="output">
+<img src="https://github.com/sstephensMCSE/template-engine-employee-summary/blob/main/pics/output.jpg" width="800" title="output">

@@ -25,6 +25,27 @@ Since the project is not hosted, I will include screenshots, and GIF style image
 
 ## Psuedo Code
 
+Build out your classes first! Manager, Engineer,and Intern classes should all extend from a class named Employee; 
+
+Use inquirer to gather information about the development team members. 
+Each employee type (manager, engineer, or intern) has slightly different information; write your code to ask different questions via inquirer depending on employee type.
+
+Create objects for each team member (using the correct classes as blueprints)
+
+After the user has input all employees desired, call the `render` function 
+pass in an array containing all employee objects; the `render` function will generate and return a block of HTML including templated divs for each employee.
+
+Create an HTML file using the HTML returned from the `render` function.
+
+Write it to a file named `team.html` in the `output` folder.
+
+You can use the variable `outputPath` above target this location.
+
+Check if the `output` folder exists and create it if it does not.
+
+Be sure to test out each class and verify it generates an object with the correct structure and methods. This structure will be crucial in order for the provided `render` function to work! 
+
+
 
 ## Demonstration
 

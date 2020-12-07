@@ -9,3 +9,21 @@
 
 ## Installation
 install node.js, run npm init, run npm i.
+
+
+## Project Overview
+   Use node.js to build a software engineering team generator command line application. The app will need to have conditional checks to gather the appropriate information for each employee. 
+
+In order to accomplish the project requirements I wanted to simplify the development by re-using code for the employee objects. Each employee type will also have a HTML template so I can keep the development seperated. 
+The command line engine will leverage inquirer to generate the question prompts. based on what employee type is selected, the following prompts will be generated. This is challenging from a coding perspective since there are several ways to accomplish the task. 
+
+The app will need to determine when the entire team has been entered so it can generate the final HTML webpage. This step will combine the input data, with the HTML templates to dynamically create the final result. 
+
+Since the project is not hosted, I will include screenshots, and GIF style images to demonstrate the result.
+
+## Psuedo Code
+
+
+## Demonstration
+
+

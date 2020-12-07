@@ -44,12 +44,12 @@ Check if the `output` folder exists and create it if it does not.
 Be sure to test out each class and verify it generates an object with the correct structure and methods. This structure will be crucial in order for the provided `render` function to work! 
 
 ## Technology
--HTML
--Bootstrap CSS Framework
--Node JS
--inquirer
--path
--jest
+- HTML
+- Bootstrap CSS Framework
+- Node JS
+- inquirer
+- path
+- jest
 
 ## Demonstration
 
